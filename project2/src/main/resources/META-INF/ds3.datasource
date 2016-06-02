@@ -1,5 +1,5 @@
 {
-  "uuid": "6407ecaa-ebc3-49da-869e-c2099515447b",
+  "uuid": "b91fad4a-d3c8-4d24-87a7-8551300b8189",
   "name": "DS3",
   "jndi": "java:jboss/datasources/DS3",
   "connectionURL": "jdbc:h2:mem:DS3;DB_CLOSE_DELAY\u003d-1;DB_CLOSE_ON_EXIT\u003dFALSE",
