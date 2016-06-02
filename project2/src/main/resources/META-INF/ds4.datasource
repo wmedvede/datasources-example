@@ -1,5 +1,5 @@
 {
-  "uuid": "785f42b6-8609-4bf7-99e7-c8c39000038f",
+  "uuid": "8d568f4b-723a-4708-b0d6-8d76a6b500f4",
   "name": "DS4",
   "jndi": "java:jboss/datasources/DS4",
   "connectionURL": "jdbc:h2:mem:DS4;DB_CLOSE_DELAY\u003d-1;DB_CLOSE_ON_EXIT\u003dFALSE",
